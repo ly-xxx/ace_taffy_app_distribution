@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ly-xxx/ace_taffy_app_distribution/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+=======
+# 点击下载喵
+
+[塔菲的小房子.apk]: https://github.com/ly-xxx/ace_taffy_app_distribution/edit/main/ace_taffy_1.0beta.apk	"看这里"
+
+>>>>>>> Stashed changes
