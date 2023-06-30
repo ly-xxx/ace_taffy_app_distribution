@@ -4,7 +4,8 @@
       "timeSta": "1551",
       "timeEnd": "1800",
       "content": "TestSingle",
-      "importance": "1"
+      "importance": "1",
+      "status": "0"
     }
   ],
   "doubleSchedule": [
@@ -12,25 +13,29 @@
       "timeSta": "1551",
       "timeEnd": "1800",
       "content": "ScheduleAppMaking",
-      "importance": "1"
+      "importance": "1",
+      "status": "0"
     },
     {
       "timeSta": "1801",
       "timeEnd": "1900",
       "content": "Eating",
-      "importance": "2"
+      "importance": "2",
+      "status": "0"
     },
     {
       "timeSta": "1901",
       "timeEnd": "2200",
       "content": "MathUtils",
-      "importance": "3"
+      "importance": "3",
+      "status": "0"
     },
     {
       "timeSta": "2300",
       "timeEnd": "2530",
       "content": "Joy",
-      "importance": "4"
+      "importance": "4",
+      "status": "0"
     }
   ]
 }
