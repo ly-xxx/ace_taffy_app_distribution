@@ -19,7 +19,7 @@
     {
       "timeSta": "1001",
       "timeEnd": "1230",
-      "content": "张宇高数第一章做完，李林800第一章习题跟上",
+      "content": "起晚了",
       "importance": "1",
       "status": "0"
     },
@@ -38,23 +38,15 @@
       "status": "0"
     },
     {
-      "timeSta": "1301",
-      "timeEnd": "1500",
-      "content": "张宇高数第二章做完，数列极限，应该不难（难的话就呜呜了）",
+      "timeSta": "1331",
+      "timeEnd": "1530",
+      "content": "张宇高数第一章做完，李林800第一章习题跟上",
       "importance": "1",
       "status": "0"
     },    {
-      "timeSta": "1501",
-      "timeEnd": "1600",
-      "content": "李林基础做了",
-      "importance": "1",
-      "status": "0"
-    },
-
-    {
-      "timeSta": "1601",
+      "timeSta": "1531",
       "timeEnd": "1800",
-      "content": "接着写app，要是张宇没做完就不用写",
+      "content": "张宇高数第二章做完，数列极限，应该不难（难的话就呜呜了）",
       "importance": "2",
       "status": "0"
     },
